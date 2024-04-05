@@ -1,0 +1,1 @@
+COPY movie_data FROM 'C:\Users\miesb\OneDrive\Desktop\grab_popcorn\Data\movies_metadata.csv' DELIMITER ',' CSV HEADER;
