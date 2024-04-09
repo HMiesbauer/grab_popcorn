@@ -10,8 +10,7 @@
 
 
 **Data and Research Sources**
-Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv)
-Dataset for this project was accessed [here](https://www.omdbapi.com/)
+Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv) and [here](https://www.omdbapi.com/)
 
 
 
