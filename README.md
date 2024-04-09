@@ -1,5 +1,5 @@
 # grab_popcorn
-Project on movie trends, genre analyses
+**Project delving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer**
 
 
 
@@ -9,9 +9,10 @@ Project on movie trends, genre analyses
 
 
 
+**Data and Research Sources**
+Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv)
+Dataset for this project was accessed [here](https://www.omdbapi.com/)
 
 
 
-data from here
-https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv
 
