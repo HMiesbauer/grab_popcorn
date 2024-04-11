@@ -81,7 +81,12 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 
 
 # Conclusion </br>
-
+* Are longer movies more popular? The runtime of a movie not effect its popularity entirely. Audiences take into account whether or not a movie is worth their time. Screendaily mentions that films that tells a story in an engaging way will be more popular and result in higher box office earning. This can be seen from Avengers: Endgame with a long runtime of 180 minutes, yet earned $2.8m at the global box office with an IMBD rating of 8.4/10.
+* Statistica states that the preferred runtime among ages of 18-55+ is aroind 91-120 minutes, yet the ratings of the movies Damsel and Abigail differ even with the same runtime of 110 minutes. Although audiences prefer movies within this runtime range, there are other factors that influence a movie's popularity.
+* Does runtime have any other dependencies? As seen in the chart comparing The Lion King and Avatar, both movies have vast runtime length yet are both highly rated and are high in the movie box office rating. This may be influenced by the audience age groups. Children are more likely to watch movies that are engaging without a complex story (woombie). This results in age being a dependency of movie runtime and popularity.
+* Are higher grossing movies more popular? The bubble chart of Movie Revenue vs. Popularity and Runtime has a slight positive correlation between popularity and gross revenue meaning the more popular a movie, the higher the revenue, but it does not increase its popularity. In terms of movie revenue and runtime, there is no strong relationship. Some shorter movies have significant revenue while some shorter movies do not.
+* The one outlier "Minions" released in 2015 grossed $1,156,730,962 was a little over 90 minutes. While widely popular and profitable, it also was a short movie.nAs compared to say for example Avatar, which grossed a phenomenal $2,787,965,087 with a runtime of 162 minutes but the audience didn't clearly love with a popularity rating of 185.
+<br/><br/>
 * While the bubble chart visualzation did provide insights into the relationships of movie runtime, popularity and revenue it does not establish causality. Other factors such as we saw with movie genres as well as advertising or even when the movie was released can all influence a movie's revenue independent of the movie's popularity or how long it runs.
 * From the relations of runtime and popularity shown in the bar charts, runtime does not directly correlate with movie popularity. The runtime of movies have other dependencies that influence the popularity. These include but are not limited to: ratings, target audience age group, or how engaging the story is being conveyed. <br/>
 
