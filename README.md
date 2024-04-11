@@ -1,11 +1,18 @@
-# grab_popcorn </br>
-**Overview**</br>
+# Overview</br>
 * Project delving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
-**Analysis & Instructions How To Interact With The Charts:** </br>
+# Goals
+* What influences a movies popularity?
+  * Does runtime effect popularity?
+  * Are certain genres more popular than others?
+  * Are higher grossing movies more popular?
+
+# Background
+
+# Analysis </br>
 
 ![top20movies_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/38d15731-11e1-4c96-ab4c-84fdd47c4ae0) </br>
-Does runtime affect popularity? <br/>
+Does runtime effect popularity? <br/>
 * After using BeautifulSoup to webscrape IMBD Charts for the most popular movies titles, we looped through the omdapi to create a Bar Graph using Plotly to compare movie runtimes and IMBD ratings.
 * From the bar chart displaying the Top 20 Movie Ratings and Runtime, we cannot see any significant differences between the runtime and popularity ratings. So further research is needed. <br/>
 
@@ -77,12 +84,12 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 
 
 
-**Conclusion:** </br>
+# Conclusion </br>
 
 * While the bubble chart visualzation did provide insights into the relationships of movie runtime, popularity and revenue it does not establish causality. Other factors such as we saw with movie genres as well as advertising or even when the movie was released can all influence a movie's revenue independent of the movie's popularity or how long it runs.
 * From the relations of runtime and popularity shown in the bar charts, runtime does not directly correlate with movie popularity. The runtime of movies have other dependencies that influence the popularity. These include but are not limited to: ratings, target audience age group, or how engaging the story is being conveyed. <br/>
 
-**Works Cited:** </br>
+# Works Cited </br>
 * [screendaily](https://www.screendaily.com/features/does-a-long-running-time-help-or-hurt-a-films-box-office-performance/5144271.article)
 * [statista](https://www.statista.com/statistics/860072/preferred-movie-length-age/)
 * [woombie](https://woombie.com/blog/post/why-its-important-to-consider-your-childs-age-when-choosing-movies)
@@ -90,10 +97,10 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 
 
 
-**Data and Research Sources:** </br>
+# Data and Research Sources </br>
 * Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv) and [here](https://www.omdbapi.com/)
-* API used: [ombdiapi](https://www.omdbapi.com/)
-* Webscrape: [imbd](https://www.imdb.com/chart/moviemeter/?sort=rank%2Casc) </br>
+* [ombdiapi](https://www.omdbapi.com/) - ombdi api used to gather movie runtime and imbd ratings
+* [imbd](https://www.imdb.com/chart/moviemeter/?sort=rank%2Casc) - imbd charts of top movie popularity used to webscrape the top 100 movie titles</br>
 * D3.js libraries: </br>
   * https://observablehq.com/@d3/scatterplot-tour?intent=fork </br>
   * https://d3js.org/getting-started#try-d3-online
