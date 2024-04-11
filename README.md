@@ -79,10 +79,6 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 * As we see a positive coefficient here with an increase in runtime & increase in popularity, revenue also increases (the dependent variable here). This is typical of what we see that the dependent variable will also increase when the independent variables increase. </br>
 
 
-## Efforts Made For Ethical Considerations: </br>
- In order to ensure that we were being ethical in our approach to using data we chose datasets that didn't include personal information of individuals. Additionally, the datasets that we used contained aggregrate data of voter choices so that wouldn't be tied to individual choices of the viewers movie preferences. 
-
-
 
 # Conclusion </br>
 
@@ -104,6 +100,9 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 * D3.js libraries: </br>
   * https://observablehq.com/@d3/scatterplot-tour?intent=fork </br>
   * https://d3js.org/getting-started#try-d3-online
+ 
+## Efforts Made For Ethical Considerations: </br>
+ In order to ensure that we were being ethical in our approach to using data we chose datasets that didn't include personal information of individuals. Additionally, the datasets that we used contained aggregrate data of voter choices so that wouldn't be tied to individual choices of the viewers movie preferences. 
 
 
 
