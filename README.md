@@ -12,8 +12,9 @@
 
 
 ![Capture](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/ba6740c6-1256-43c4-a8eb-357cd73eb651) </br>
-text here, how to interact with drop down menus for the top movies by genre
-Demo here: </br>
+* text here, how to interact with drop down menus for the top movies by genre
+* How to interact with the chart. Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!
+* Demo here: </br>
 
 
  
@@ -35,13 +36,13 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 * As compared to say for example Avatar, which grossed a phenomenal $2,787,965,087 with a runtime of 162 minutes but the audience didn't clearly love with a popularity rating of 185. 
 
 ![Mouse Hover Reveals Movie Title](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/a5f94411-fc64-49a0-afde-ae36bd54cae1) </br>
-Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
-While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well ast the comphrensive tutorials and documentation available for visualizations with D3.js. 
-Demo here: </br>
+* Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
+* While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well ast the comphrensive tutorials and documentation available for visualizations with D3.js. 
+* Demo here: </br>
 
 
 ![movie revenue runtime popularity linear regression](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/67bb86a9-6afe-4f41-bc8a-feeadfc28f15) </br>
-text here about popularity, runtime, movie revenue with the linear regression /<br>
+* As we see a positive coefficient here with an increase in runtime & increase in popularity, revenue also increases (the dependent variable here). This is typical of what we see that the dependent variable will also increase when the independent variables increase. </br>
 
 
 **Efforts Made For Ethical Considerations:** </br>
