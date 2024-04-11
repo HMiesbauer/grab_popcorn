@@ -12,7 +12,7 @@
 
 
 ![Capture](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/ba6740c6-1256-43c4-a8eb-357cd73eb651) </br>
-* text here, how to interact with drop down menus for the top movies by genre
+* Movie popularity
 * How to interact with the chart. Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!
 * Demo here: </br>
 
