@@ -8,6 +8,7 @@
   * Are higher grossing movies more popular?
 
 # Background
+Movies are made with intention of being popular and receive high earnings in the box office. But what do film makers have to consider make their movie popular? According to a study from statistica, audience ages of 18-55+ prefer movies with runtimes between 91 to 120 minutes. With this in mind, does that mean film makers should strive to release films within that runtime? Or are there other factors that influences a movie popularity? Audiences are more likely to go to movies of their preferred genre, but that mean some genres are more liked than others? Lastly, if movies are earning more revenue compared to others, does that mean they are more popular? Movies like Avatar had the highest box office earning of $2.78 billion with a runtime of 162 yet had a lower popularity than Minoions with a gross earning of $1.56 billion and lower runtime of 90 minutes. With this in mind, what influences movie popularity? Runtime? Genre? Box Office Earnings?
 
 # Analysis </br>
 
