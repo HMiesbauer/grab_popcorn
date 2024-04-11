@@ -1,5 +1,5 @@
-# Overview</br>
-* Project delving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
+## Overview</br>
+* Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
 # Goals
 * What influences a movies popularity?
