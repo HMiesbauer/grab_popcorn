@@ -1,7 +1,9 @@
 ## Overview</br>
 * Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
-### link to static pages:
+## link to static pages
+* Text Box Bar Chart:
+* Drop Down Bar Chart: 
 
 # Goals
 * What influences a movies popularity?
