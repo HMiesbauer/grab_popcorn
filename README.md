@@ -1,6 +1,8 @@
 ## Overview</br>
 * Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
+### link to static pages:
+
 # Goals
 * What influences a movies popularity?
   * Does runtime effect popularity?
