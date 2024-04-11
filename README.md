@@ -31,9 +31,10 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 
 ![Movie Revenue Runtime Popularity Outlier](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/b0dcffc3-9a59-4646-a589-c131881b7e31)
 
-* The one outlier "Minions" released in 2015 grossed $1,156,730,962 was a little over 90 minutes. While widely popular and profitable, it also was a short movie. As compared to say for example Avatar, which grossed a phenomenal $2,787,965,087 with a runtime of 162 minutes but the audience didn't clearly love with a popularity rating of 185. 
+* The one outlier "Minions" released in 2015 grossed $1,156,730,962 was a little over 90 minutes. While widely popular and profitable, it also was a short movie. </br>
+* As compared to say for example Avatar, which grossed a phenomenal $2,787,965,087 with a runtime of 162 minutes but the audience didn't clearly love with a popularity rating of 185. 
 
-![Mouse Hover Reveals Movie Title](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/a5f94411-fc64-49a0-afde-ae36bd54cae1)
+![Mouse Hover Reveals Movie Title](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/a5f94411-fc64-49a0-afde-ae36bd54cae1) </br>
 Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
 While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well ast the comphrensive tutorials and documentation available for visualizations with D3.js. 
 Demo here: </br>
