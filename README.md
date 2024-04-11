@@ -4,7 +4,34 @@
 
 **Analysis & Instructions How To Interact With The Charts:** </br>
 
+![top20movies_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/38d15731-11e1-4c96-ab4c-84fdd47c4ae0) </br>
+* Does runtime affect popularity?
+* After using BeautifulSoup to webscrape IMBD Charts for the most popular movies titles, we looped through the omdapi to create a Bar Graph using Plotly to compare movie runtimes and IMBD ratings.
+* From the bar chart displaying the Top 20 Movie Ratings and Runtime, we cannot see any significant differences between the runtime and popularity ratings. So further research is needed. <br/>
 
+
+![longest_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/28101e5e-244a-4c54-8404-74f945f17582) <br/>
+* Here is an interactive chart. This is how you interact with it: Enter two movies into the text box with the format: “movie,movie”, then click the Search button to reveal the movie runtime and IMBD rating.
+* Are longer movies more popular?
+* The chart shows the longer movies from the Top 20 Movie Ratings and Runtime. The movie Then Ten Commandments had a longer runtime of 220 minutes which resulted in a slightly lower IMBD rating of 79 compared to Oppenheimer with a runtime of 180 minutes and 84 IMBD rating.
+* According to screendaily, audiences consider whether or not movies are worth their time. These factors may include if the reviews are good or if the film “as long as it needs to tell its story in an engaging way.” This can be seen from Avengers: Endgame having a long runtime of 180 minutes yet it had a high rating and huge earning of $2.8 at the global box office.
+* This just shows that runtime doesn’t necessarily correlate with popularity, yet the rating or how compelling the film tells the story reflects the popularity. </br>
+
+
+
+![same_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/d73b1165-84c5-4a6b-9ca7-0b43673c2ce9) </br>
+* Same Runtime, Differing Popularity
+* In addition to longer runtimes, the chart above shows two movies with the same runtime. 
+* Although both movies had a runtime of 110 minutes, Damsel received a higher IMBD rating of 61 compared to Abigail having only 48. Both movies are within the preferred runtime among ages of 18-55+ of being within 91-120 minutes (statista), but the ratings show otherwise.
+* These results conclude that runtime does not reflect movie ratings, yet there may be other factors. <br/>
+
+
+
+![agedependency](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/9ef8b9d9-203b-48fa-b619-bd003c02f5ac) <br/>
+* Does runtime have any other dependencies?
+* The graph above shows two movies with high ratings and box office earnings. The Lion King is the top animed box office movie with a runtime of 88 minutes and 85 ratings, whereas Avatar is the highest earning box office movie with a runtime of 162 minutes and 79 rating.
+* Both movies are highly rated, yet have vastly different runtimes. This might be due to the target audience where children are more likely to watch animated movies compared to adults. Woombie states that children have shorter attention spans than adults, so kids are drawn to movies that can maintain their attention. “If a movie is too complex or too long, it’s likely that a child will become bored or restless.”
+* So runtime may have other dependencies in addition to a compelling story, such as a targeted audience age group. <br/>
 
 
 
@@ -53,13 +80,20 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 **Conclusion:** </br>
 
 * While the bubble chart visualzation did provide insights into the relationships of movie runtime, popularity and revenue it does not establish causality. Other factors such as we saw with movie genres as well as advertising or even when the movie was released can all influence a movie's revenue independent of the movie's popularity or how long it runs.
+* From the relations of runtime and popularity shown in the bar charts, runtime does not directly correlate with movie popularity. The runtime of movies have other dependencies that influence the popularity. These include but are not limited to: ratings, target audience age group, or how engaging the story is being conveyed. <br/>
 
 **Works Cited:** </br>
+* [screendaily](https://www.screendaily.com/features/does-a-long-running-time-help-or-hurt-a-films-box-office-performance/5144271.article)
+* [statista](https://www.statista.com/statistics/860072/preferred-movie-length-age/)
+* [woombie](https://woombie.com/blog/post/why-its-important-to-consider-your-childs-age-when-choosing-movies)
+
 
 
 
 **Data and Research Sources:** </br>
-* Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv) and [here](https://www.omdbapi.com/) </br>
+* Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv) and [here](https://www.omdbapi.com/)
+* API used: [ombdiapi](https://www.omdbapi.com/)
+* Webscrape: [imbd](https://www.imdb.com/chart/moviemeter/?sort=rank%2Casc) </br>
 * D3.js libraries: </br>
   * https://observablehq.com/@d3/scatterplot-tour?intent=fork </br>
   * https://d3js.org/getting-started#try-d3-online
