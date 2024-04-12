@@ -53,7 +53,8 @@ Does runtime have any other dependencies? <br/>
 
 
 ![Capture](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/ba6740c6-1256-43c4-a8eb-357cd73eb651) </br>
-* Movie popularity
+* By allowing users to choose their favorite genre they can uncover hidden gems. Movies they might not otherwise have heard of but might appeal to them based on their favorite genre.
+* One interesting note is that some genre have widely popular movies such as the Hunger Games: Mockingjay part I. In contrast, looking at the rest of the suggested movie titles in the top 10 the popularity is lukewarm at best.
 * How to interact with the chart. Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!
 </br>
 
