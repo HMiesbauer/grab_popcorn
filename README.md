@@ -26,7 +26,7 @@ Does runtime effect popularity? <br/>
 Here is an interactive chart. This is how you interact with it: Enter two movies into the text box with the format: “movie,movie”, then click the Search button to reveal the movie runtime and IMBD rating. When you hover over a set of the bar graph, it will show the movie title along with the runtime(min) and imbd rating.<br/><br/>
 Are longer movies more popular? <br/>
 * The chart shows the longer movies from the Top 20 Movie Ratings and Runtime. The movie Then Ten Commandments had a longer runtime of 220 minutes which resulted in a slightly lower IMBD rating of 79 compared to Oppenheimer with a runtime of 180 minutes and 84 IMBD rating.
-* According to screendaily, audiences consider whether or not movies are worth their time. These factors may include if the reviews are good or if the film “as long as it needs to tell its story in an engaging way.” This can be seen from Avengers: Endgame having a long runtime of 180 minutes yet it had a high rating and huge earning of $2.8 at the global box office.
+* According to screendaily, audiences consider whether or not movies are worth their time. These factors may include if the reviews are good or if the film “as long as it needs to tell its story in an engaging way.” This can be seen from Avengers: Endgame having a long runtime of 180 minutes yet it had a high rating and huge earning of $2.8 billion at the global box office.
 * This just shows that runtime doesn’t necessarily correlate with popularity, yet the rating or how compelling the film tells the story reflects the popularity. </br>
 
 
