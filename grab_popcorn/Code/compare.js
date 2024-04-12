@@ -1,5 +1,6 @@
 apiUrl = "https://www.omdbapi.com/?t="
 
+// code obtained from chatgpt asking how to save and split an input entered from a textbox
 function runCodeAfterInput(){
     var input = document.getElementById('arrayInput').value;
     var array = input.split(',');
