@@ -86,7 +86,7 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 
 ![Mouse Hover Reveals Movie Title](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/a5f94411-fc64-49a0-afde-ae36bd54cae1) </br>
 * Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
-* While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well ast the comphrensive tutorials and documentation available for visualizations with D3.js. 
+* While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well as the comphrensive tutorials and documentation available for visualizations with D3.js. 
  </br>
 
 # Conclusion </br>
