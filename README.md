@@ -103,7 +103,7 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 
 
 # Data and Research Sources </br>
-* Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv) and [here](https://www.omdbapi.com/)
+* Dataset for this project was dowloaded [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv)
 * [ombdiapi](https://www.omdbapi.com/) - ombdi api used to gather movie runtime and imbd ratings
 * [imbd](https://www.imdb.com/chart/moviemeter/?sort=rank%2Casc) - imbd charts of top movie popularity used to webscrape the top 100 movie titles</br>
 * D3.js libraries: </br>
