@@ -1,11 +1,18 @@
 # Overview</br>
 * Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
-## Link to static pages
-* Mouse Hover Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/runtime.html)
-* Text Box Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/compare.html)
-* Drop Down Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/movies.html)
-* Mouse Hover Bubble Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/scatterplot.html)
+## Static Pages and Instructions </br>
+Mouse Hover Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/runtime.html) </br>
+* Hover mouse over each bar to display the movie title, runtime length (minutes), and imbd rating </br>
+
+Text Box Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/compare.html)</br>
+* Enter two movies into the text box with the format: movie,movie (note: enter spaces or colons normally)
+* Click the Search button to reveal the two bar charts comparing the movies entered.
+* Hover over a set of the bar graph to show the movie title along with Runtime (min) and IMBD Rating.</br>
+
+Drop Down Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/movies.html)</br>
+
+Mouse Hover Bubble Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/scatterplot.html)</br>
 
 ## Goals
 * What influences a movies popularity?
@@ -25,7 +32,6 @@ Does runtime effect popularity? <br/>
 
 
 ![longest_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/28101e5e-244a-4c54-8404-74f945f17582) <br/>
-Here is an interactive chart. This is how you interact with it: Enter two movies into the text box with the format: “movie,movie”, then click the Search button to reveal the movie runtime and IMBD rating. When you hover over a set of the bar graph, it will show the movie title along with the runtime(min) and imbd rating.<br/><br/>
 Are longer movies more popular? <br/>
 * The chart shows the longer movies from the Top 20 Movie Ratings and Runtime. The movie Then Ten Commandments had a longer runtime of 220 minutes which resulted in a slightly lower IMBD rating of 79 and popularity ranking of 20 compared to Oppenheimer with a runtime of 180 minutes with 84 IMBD rating and 7 popularity ranking.
 * According to screendaily, audiences consider whether or not movies are worth their time. These factors may include if the reviews are good or if the film “as long as it needs to tell its story in an engaging way.” This can be seen from Avengers: Endgame having a long runtime of 180 minutes yet it had a high rating and huge earning of $2.8 billion at the global box office.
