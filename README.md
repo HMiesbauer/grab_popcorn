@@ -1,13 +1,13 @@
-## Overview</br>
+# Overview</br>
 * Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
-## link to static pages
+## Link to static pages
 * Mouse Hover Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/runtime.html)
 * Text Box Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/compare.html)
 * Drop Down Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/movies.html)
 * Mouse Hover Bubble Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/scatterplot.html)
 
-# Goals
+## Goals
 * What influences a movies popularity?
   * Does runtime effect popularity?
   * Are certain genres more popular than others?
