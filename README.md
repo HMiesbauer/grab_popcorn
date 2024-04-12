@@ -27,7 +27,7 @@ Does runtime effect popularity? <br/>
 ![longest_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/28101e5e-244a-4c54-8404-74f945f17582) <br/>
 Here is an interactive chart. This is how you interact with it: Enter two movies into the text box with the format: “movie,movie”, then click the Search button to reveal the movie runtime and IMBD rating. When you hover over a set of the bar graph, it will show the movie title along with the runtime(min) and imbd rating.<br/><br/>
 Are longer movies more popular? <br/>
-* The chart shows the longer movies from the Top 20 Movie Ratings and Runtime. The movie Then Ten Commandments had a longer runtime of 220 minutes which resulted in a slightly lower IMBD rating of 79 compared to Oppenheimer with a runtime of 180 minutes and 84 IMBD rating.
+* The chart shows the longer movies from the Top 20 Movie Ratings and Runtime. The movie Then Ten Commandments had a longer runtime of 220 minutes which resulted in a slightly lower IMBD rating of 79 and popularity ranking of 20 compared to Oppenheimer with a runtime of 180 minutes with 84 IMBD rating and 7 popularity ranking.
 * According to screendaily, audiences consider whether or not movies are worth their time. These factors may include if the reviews are good or if the film “as long as it needs to tell its story in an engaging way.” This can be seen from Avengers: Endgame having a long runtime of 180 minutes yet it had a high rating and huge earning of $2.8 billion at the global box office.
 * This just shows that runtime doesn’t necessarily correlate with popularity, yet the rating or how compelling the film tells the story reflects the popularity. </br>
 
@@ -36,7 +36,7 @@ Are longer movies more popular? <br/>
 ![same_runtime](https://github.com/HMiesbauer/grab_popcorn/assets/150317761/d73b1165-84c5-4a6b-9ca7-0b43673c2ce9) </br>
 Same Runtime, Differing Popularity <br/>
 * In addition to longer runtimes, the chart above shows two movies with the same runtime. 
-* Although both movies had a runtime of 110 minutes, Damsel received a higher IMBD rating of 61 compared to Abigail having only 48. Both movies are within the preferred runtime among ages of 18-55+ of being within 91-120 minutes (statista), but the ratings show otherwise.
+* Although both movies had a runtime of 110 minutes, Damsel received a higher IMBD rating of 61 and ranked 4 in popularity compared to Abigail having only 48 and ranking only 12. Both movies are within the preferred runtime among ages of 18-55+ of being within 91-120 minutes (statista), but the ratings show otherwise.
 * These results conclude that runtime does not reflect movie ratings, yet there may be other factors. <br/>
 
 
