@@ -73,18 +73,20 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 * However, we do see significant variability in revenue as it doesn't wholly increase with popularity.<br>
 
 
-![Movie Revenue Runtime Popularity with markup](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/480cb19b-881a-4f09-8201-231f59a89c55) </br>
+![Movie Revenue Runtime Popularity with markup](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/acf7a891-137a-4f53-a7d3-0e6a386a1019) </br>
 
 * Another key insight we see is that there isn't the same relationship with movie revenue and runtime as we see with a movie's popularity and it's gross revenue. There is no strong linear trend between the two. As we can see in the plot, some shorter movies have significant revenue while some shorter movies do not. </br>
 * In that same vein, longer movies also exhibit a range of revenue levels. </br>
 
 
-![Movie Revenue Runtime Popularity Outlier](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/b0dcffc3-9a59-4646-a589-c131881b7e31)
+![Movie Revenue Runtime Popularity Outlier](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/250b9a61-082f-4ee6-a75a-ddc52211ed4f)
 
 * The one outlier "Minions" released in 2015 grossed $1,156,730,962 was a little over 90 minutes. While widely popular and profitable, it also was a short movie. </br>
 * As compared to say for example Avatar, which grossed a phenomenal $2,787,965,087 with a runtime of 162 minutes but the audience didn't clearly love with a popularity rating of 185. 
 
-![Mouse Hover Reveals Movie Title](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/a5f94411-fc64-49a0-afde-ae36bd54cae1) </br>
+
+![Movie Revenue Runtime Popularity Mouse Hover](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/42cf35d8-d874-4e29-9576-ed4ec7f54f32) </br>
+
 * Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
 * While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well as the comphrensive tutorials and documentation available for visualizations with D3.js. 
  </br>
