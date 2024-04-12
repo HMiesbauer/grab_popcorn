@@ -6,13 +6,12 @@
             width: 200;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
             font-weight: bold;
-            border: 2px solid black;
             box-sizing: border-box;
             padding: 10 px;
                       
         }
 
-        Style for the SVG container
+       
 .container svg {
             margin-left: -20px; 
         
