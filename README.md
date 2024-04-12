@@ -2,19 +2,19 @@
 * Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
 ## Static Pages and Instructions </br>
-Mouse Hover Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/runtime.html) </br>
-* Hover mouse over each bar to display the movie title, runtime length (minutes), and imbd rating </br>
+* Mouse Hover Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/runtime.html) </br>
+  * Hover mouse over each bar to display the movie title, runtime length (minutes), and imbd rating </br>
 
-Text Box Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/compare.html)</br>
-* Enter two movies into the text box with the format: movie,movie (note: enter spaces or colons normally)
-* Click the Search button to reveal the two bar charts comparing the movies entered.
-* Hover over a set of the bar graph to show the movie title along with Runtime (min) and IMBD Rating.</br>
+* Text Box Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/compare.html)</br>
+  * Enter two movies into the text box with the format: movie,movie (note: enter spaces or colons normally)
+  * Click the Search button to reveal the two bar charts comparing the movies entered.
+  * Hover over a set of the bar graph to show the movie title along with Runtime (min) and IMBD Rating.</br>
 
-Drop Down Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/movies.html)</br>
-* Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!</br>
+* Drop Down Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/movies.html)</br>
+  * Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!</br>
 
-Mouse Hover Bubble Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/scatterplot.html)</br>
-* Hover over the bubbles to reveal movie titles.</br>
+* Mouse Hover Bubble Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/scatterplot.html)</br>
+  * Hover over the bubbles to reveal movie titles.</br>
 
 ## Goals
 * What influences a movies popularity?
