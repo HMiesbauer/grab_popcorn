@@ -70,7 +70,7 @@ Does runtime have any other dependencies? <br/>
 ![Movie Revenue Runtime Popularity](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/c7a60263-938e-43c7-a3f9-0a26ce6f7cb3) </br>
 We created a Bubble Chart with the D3.js library to visually represent the relationship between a movie's revenue, popularity and runtime. In comparing these variables there are a few key insights we can glean from the chart.</br>
 * First, as we would intuitively believe there does seem to be a positive correlation between popularity and a movie's gross revenue. We can see in the plot that the more popular a movie is, revenue is higher </br>
-* However, we do see significant variability in revenue as it doesn't wholly increase with popularity/<br>
+* However, we do see significant variability in revenue as it doesn't wholly increase with popularity.<br>
 
 
 ![Movie Revenue Runtime Popularity with markup](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/480cb19b-881a-4f09-8201-231f59a89c55) </br>
