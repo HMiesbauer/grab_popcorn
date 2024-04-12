@@ -3,7 +3,9 @@
 
 ## link to static pages
 * Text Box Bar Chart:
-* Drop Down Bar Chart: 
+* Drop Down Bar Chart:
+* Drop Down Bar Chart:
+* Mouse Hover Bubble Chart:
 
 # Goals
 * What influences a movies popularity?
@@ -78,12 +80,6 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 * Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
 * While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well ast the comphrensive tutorials and documentation available for visualizations with D3.js. 
 * Demo here: </br>
-
-
-![movie revenue runtime popularity linear regression](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/67bb86a9-6afe-4f41-bc8a-feeadfc28f15) </br>
-* As we see a positive coefficient here with an increase in runtime & increase in popularity, revenue also increases (the dependent variable here). This is typical of what we see that the dependent variable will also increase when the independent variables increase. </br>
-
-
 
 # Conclusion </br>
 * Are longer movies more popular? The runtime of a movie not effect its popularity entirely. Audiences take into account whether or not a movie is worth their time. Screendaily mentions that films that tells a story in an engaging way will be more popular and result in higher box office earning. This can be seen from Avengers: Endgame with a long runtime of 180 minutes, yet earned $2.8m at the global box office with an IMBD rating of 8.4/10.
