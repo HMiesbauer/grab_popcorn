@@ -11,8 +11,10 @@ Text Box Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcor
 * Hover over a set of the bar graph to show the movie title along with Runtime (min) and IMBD Rating.</br>
 
 Drop Down Bar Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/movies.html)</br>
+* Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!</br>
 
 Mouse Hover Bubble Chart: [here](https://hmiesbauer.github.io/grab_popcorn/grab_popcorn/Code/scatterplot.html)</br>
+* Hover over the bubbles to reveal movie titles.</br>
 
 ## Goals
 * What influences a movies popularity?
