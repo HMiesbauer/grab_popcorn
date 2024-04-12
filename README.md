@@ -2,8 +2,8 @@
 * Project diving into what external factors influence movie popularity by Ashley Nguyen and Holly Miesbauer </br>
 
 ## link to static pages
+* Mouse Hover Bar Chart:
 * Text Box Bar Chart:
-* Drop Down Bar Chart:
 * Drop Down Bar Chart:
 * Mouse Hover Bubble Chart:
 
