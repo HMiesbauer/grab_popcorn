@@ -55,7 +55,7 @@ Does runtime have any other dependencies? <br/>
 ![Capture](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/ba6740c6-1256-43c4-a8eb-357cd73eb651) </br>
 * Movie popularity
 * How to interact with the chart. Select your favorite genre from the drop down menu and based on your selected genre you will be presented with ten of the most popular movies within that genre to watch in the future!
-* Demo here: </br>
+</br>
 
 
  
@@ -79,7 +79,7 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 ![Mouse Hover Reveals Movie Title](https://github.com/HMiesbauer/grab_popcorn/assets/150979374/a5f94411-fc64-49a0-afde-ae36bd54cae1) </br>
 * Interacting with the Bubble Chart. Mouse hover over the revenue circles reveals the title of the movie. </br>
 * While the team was proficient in using visualization tools such as Leaflet and Plotly prior to this project. For this project in particular, the team chose to learn visualizations with D3.js in particular due to customization options like mouse hover text as well ast the comphrensive tutorials and documentation available for visualizations with D3.js. 
-* Demo here: </br>
+ </br>
 
 # Conclusion </br>
 * Are longer movies more popular? The runtime of a movie not effect its popularity entirely. Audiences take into account whether or not a movie is worth their time. Screendaily mentions that films that tells a story in an engaging way will be more popular and result in higher box office earning. This can be seen from Avengers: Endgame with a long runtime of 180 minutes, yet earned $2.8m at the global box office with an IMBD rating of 8.4/10.
@@ -95,7 +95,9 @@ We created a Bubble Chart with the D3.js library to visually represent the relat
 * [screendaily](https://www.screendaily.com/features/does-a-long-running-time-help-or-hurt-a-films-box-office-performance/5144271.article)
 * [statista](https://www.statista.com/statistics/860072/preferred-movie-length-age/)
 * [woombie](https://woombie.com/blog/post/why-its-important-to-consider-your-childs-age-when-choosing-movies)
-
+* [cnn](https://www.cnn.com/2024/01/02/business/us-box-office-2023-best-since-before-pandemic/index.html#:~:text=The%202023%20domestic%20box%20office,sales%20reached%20before%20the%20pandemic)
+* [cinemovietv](https://cinemovie.tv/Blogs/5-reasons-we-love-movies)
+* [cornell](https://blogs.cornell.edu/learning/why-do-we-love-the-movies/#:~:text=They%20take%20us%20away%20from,is%20why%20we%20love%20them)
 
 
 
