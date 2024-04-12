@@ -7,12 +7,14 @@ function runCodeAfterInput(){
     window.storedArray = array;
     // console.log("Array Stored: " + JSON.stringify(storedArray));
 
+    //make empty lists to store arrays
     let titleArray = [];
     let runtimeArray = [];
     let genreArray = [];
     let metascoreArray = [];
     let imbdArray = [];
 
+    // loop through stored array
     for (let i = 0; i < storedArray.length; i++){
         // console.log(storedArray)
         let compareMovies = storedArray[i]
@@ -20,6 +22,8 @@ function runCodeAfterInput(){
         url = apiUrl + compareMovies + "&apikey=trilogy"
         d3.json(url).then(function(data){
             // console.log(data);
+
+            // find desired data in json
             var title = data.Title;
             var runtime = (data.Runtime).replace(' min', '');
             var genre = data.Genre;
@@ -31,20 +35,23 @@ function runCodeAfterInput(){
             // console.log(genre);
             // console.log(metascore);
             // console.log(imbd);
-        
+
+            // append data to empty lists
             titleArray.push(title);
             runtimeArray.push(runtime);
             genreArray.push(genre);
             metascoreArray.push(metascore);
             imbdArray.push(imbd);
 
+            // create traces to plot data using plotly
             var trace1 ={
                 x: titleArray,
                 y: runtimeArray,
                 name: 'Runtime (min)',
                 type: 'bar'
             };
-            
+
+            // REMOVE since some values are NaN
             // var trace2 ={
             //     x: titleArray,
             //     y: metascoreArray,
